@@ -183,8 +183,8 @@ a.btn:hover {
   background-color:rgba(0, 0, 0, 0.6);
 }
 .header .intro {
-  padding-top: 90px;
-  padding-bottom: 130px;
+  padding-top: 120px;   /*original 90px */
+  padding-bottom: 160px;  /*original 130px */
   position: relative;
 }
 .header .profile {
