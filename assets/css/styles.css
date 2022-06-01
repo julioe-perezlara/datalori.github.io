@@ -344,9 +344,9 @@ a.btn:hover {
   border-left: 3px solid #4585BC;
   border-bottom-right-radius: 2px;
   border-top-right-radius: 2px;
-  position: relative;
+  position: centered;
   padding: 0 30px;
-  margin-left: 280px;
+  margin-left: 350px;
 }
 .timeline .item {
   position: relative;
