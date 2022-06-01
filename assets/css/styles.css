@@ -608,8 +608,8 @@ a.btn:hover {
   margin-right: 0;
 }
 .portfolio-section .filters .type.active {
-  color: #6EA8DC;
-  border-bottom: 2px solid #6EA8DC;
+  color: #3F8799;
+  border-bottom: 2px solid #3F8799; /*#3F8799 #6EA8DC  */
 }
 .portfolio-section .item {
   margin-bottom: 30px;
@@ -641,7 +641,7 @@ a.btn:hover {
 .portfolio-section .item-inner .content {
   padding: 20px 15px;
   position: relative;
-  background: #6EA8DC;
+  background: #3F8799;   /*#6EA8DC */
 }
 .portfolio-section .item-inner .content a {
   color: #fff;
@@ -1008,4 +1008,11 @@ a.btn:hover {
 
 .copyright {
   font-size: 14px;
+}
+/* Centered Image Code */
+.img_portfolio_icon {
+  display: block;
+  width: 7%;
+  margin-left: auto;
+  margin-right: auto;
 }
