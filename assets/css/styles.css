@@ -683,11 +683,6 @@ a.btn:hover {
 .figure .img-fluid {
   height: 160px !important;
 }
-.figure .img-portfolio {
-  height: 160px !important;
-  width: auto;
-}
-}
 
 .contact-section .intro {
   position: relative;
