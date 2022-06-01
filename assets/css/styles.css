@@ -682,6 +682,7 @@ a.btn:hover {
 }
 .figure .img-fluid {
   height: 160px !important;
+  width: 100%;
 }
 
 .contact-section .intro {
