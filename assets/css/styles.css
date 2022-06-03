@@ -95,11 +95,11 @@ a.btn:hover {
   background-image: url("../img/background.JPEG");
   background-repeat: no-repeat;
   background-position: center;
-  background-size: 105%;
+  background-size: cover;
   color: #fff;
   position: relative;
   max-width: 100% ;
-  min-height: 100%;
+  max-height: 100%;
   object-fit: cover;
   width: 100%;
   z-index: 99;
