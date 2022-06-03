@@ -95,7 +95,7 @@ a.btn:hover {
   background-image: url("../img/background.jpg");
   background-repeat: no-repeat;
   background-position: center;
-  background-size: 105%;
+  background-size: 100%;
   color: #fff;
   position: relative;
   max-width: 100% !important;
@@ -172,7 +172,7 @@ a.btn:hover {
   margin-bottom: 10px;
   letter-spacing: 0.5px;
   text-align: center;
-  margin: 62px 0px 0px 0px;
+  margin: 62px 15px 0px 15px;
   color: #F6F6F6;
   background-color:rgba(0, 0, 0, 0.6);
 }
