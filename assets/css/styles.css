@@ -721,6 +721,12 @@ a.btn:hover {
   font-size: 16px;
 }
 
+@media (max-width: @iphone-screen) {
+  background-attachment:inherit;
+  background-size:cover;
+  -webkit-background-size:cover;
+}
+
 /* Extra small devices (phones, less than 768px) */
 @media (max-width: 767px) {
   .header {
