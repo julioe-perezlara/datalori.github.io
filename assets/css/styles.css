@@ -98,19 +98,14 @@ a.btn:hover {
   background-size: 100% ;
   color: #fff;
   position: relative;
-  max-width: 100% !important;
+  max-width: 100% ;
   min-height: 100%;
   object-fit: cover;
-  width: 100% !important;
-  z-index: 99; }
-@media (min-width: 600px) {
-    html {
-        background: url(/images/bg.jpg) no-repeat center center fixed;
-        background-size: cover;
-    }
-    .html-mobile-background {
-        display: none;
-    }
+  width: 100%;
+  z-index: 99;
+  webkit-background-size: auto auto;
+  moz-background-size: auto auto;
+  o-background-size: auto auto;
 }
 .header a {
   color: #fff;
