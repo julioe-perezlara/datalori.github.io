@@ -95,7 +95,7 @@ a.btn:hover {
   background-image: url("../img/background.jpg");
   background-repeat: no-repeat;
   background-position: center;
-  background-size: 100% 100%;
+  background-size: 100% ;
   color: #fff;
   position: relative;
   max-width: 100% !important;
@@ -103,6 +103,9 @@ a.btn:hover {
   object-fit: cover;
   width: 100% !important;
   z-index: 99;
+  webkit-background-size: auto auto;
+  moz-background-size: auto auto;
+  o-background-size: auto auto;
 }
 .header a {
   color: #fff;
