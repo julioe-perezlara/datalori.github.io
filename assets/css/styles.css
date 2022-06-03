@@ -95,7 +95,7 @@ a.btn:hover {
   background-image: url("../img/background.jpg");
   background-repeat: no-repeat;
   background-position: center;
-  background-size: cover;
+  background-size: 100% 100%;
   color: #fff;
   position: relative;
   max-width: 100% !important;
