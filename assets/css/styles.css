@@ -95,7 +95,7 @@ a.btn:hover {
   background-image: url("../img/background.jpg");
   background-repeat: no-repeat;
   background-position: center;
-  background-size: cover;
+  background-size: 100%;
   color: #fff;
   position: relative;
   max-width: 100% !important;
@@ -189,8 +189,11 @@ a.btn:hover {
 }
 .header .profile {
   max-width: 800px;
-  margin: 0 auto;
+  margin-top: 15px;
+  margin-bottom: 10px;
   padding-top: 26px;
+  margin: 4px 12px 88px 12px;
+  font-weight: bold;
 }
 .header .contact-info {
   background: #4585BC;
