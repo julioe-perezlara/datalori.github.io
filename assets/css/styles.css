@@ -92,8 +92,9 @@ a.btn:hover {
 }
 .header {
   /*background: #6EA8DC;*/
-  background-image: url("../img/background.png");
+  background-image: url("../img/background4.jpg");
   background-repeat: no-repeat;
+  background-position: center;
   object-position: -0% -20%;
   background-size: cover;
   color: #fff;
