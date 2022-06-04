@@ -809,7 +809,6 @@ a.btn:hover {
   }
   .portfolio-section .filters .type {
     font-size: 12px;
-    margin-right: 5px;
     padding: 8px 5px;
   }
   .portfolio-section .item-inner .content {
@@ -827,7 +826,7 @@ a.btn:hover {
   }
   .portfolio-section .item-inner .content .meta {
     margin-bottom: 30px;
-    max-width: 120px;
+    max-width: 180px;
     word-break: break-word;
     /*overflow: scroll;
     text-overflow: ellipsis;
