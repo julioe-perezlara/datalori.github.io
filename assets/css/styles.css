@@ -92,14 +92,15 @@ a.btn:hover {
 }
 .header {
   /*background: #6EA8DC;*/
-  background-image: url("../img/background.JPEG");
+  background-image: url("../img/background.png");
   background-repeat: no-repeat;
   background-size: 100%;
   object-fit: cover;
   color: #fff;
   position: relative;
-  max-width: 105%;
+  max-width: 100% !important;
   max-height: 105%;
+  width: 100% !important;
   z-index: 99;
 }
 .header a {
