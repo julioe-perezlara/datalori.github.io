@@ -820,6 +820,7 @@ a.btn:hover {
     font-size: 14px;
     font-weight: bold;
     max-width: 120px;
+    word-break: break-word;
     /*overflow: scroll;
     text-overflow: ellipsis;
     white-space: nowrap;*/
