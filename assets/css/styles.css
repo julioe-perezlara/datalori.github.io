@@ -182,7 +182,7 @@ a.btn:hover {
   font-size: 23px;
   font-weight: 350;
   color: #F6F6F6;
-  margin-top: 80px;
+  margin-top: 16px;
   margin: 10px 12px 88px 12px;
   background-color:rgba(0, 0, 0, 0.6);
 }
@@ -668,7 +668,7 @@ a.btn:hover {
 }
 .portfolio-section .item-inner .content .meta {
   color: rgba(255, 255, 255, 0.8);
-  font-size: 11.5px;  /*change font size project here*/
+  font-size: 11px;  /*change font size project here*/
 }
 .portfolio-section .item-inner .content .action {
   position: absolute;
