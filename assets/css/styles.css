@@ -828,9 +828,10 @@ a.btn:hover {
   .portfolio-section .item-inner .content .meta {
     margin-bottom: 30px;
     max-width: 120px;
-    overflow: scroll;
+    word-break: break-word;
+    /*overflow: scroll;
     text-overflow: ellipsis;
-    white-space: nowrap;
+    white-space: nowrap;*/
   }
   .portfolio-section .item-inner .content .action {
     position: static;
