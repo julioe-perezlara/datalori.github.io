@@ -814,13 +814,12 @@ a.btn:hover {
   }
   .portfolio-section .item-inner .content {
     padding: 8px 8px 2px 8px;
-	background: #6EA8DC;
+	  background: #6EA8DC;
   }
   .portfolio-section .item-inner .content .sub-title {
     font-size: 14px;
+    font-weight: bold;
     max-width: 120px;
-    overflow: hidden;
-    text-overflow: ellipsis;
     white-space: nowrap;
   }
   .portfolio-section .item-inner .content .meta {
