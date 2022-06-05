@@ -1119,6 +1119,14 @@ body{
   font-size: 15px;
   font-weight: 500;
 }
+
+li {
+  list-style-type: disc;
+  list-style-position: inside;
+  text-indent: -1em;
+  padding-left: 1em;
+}
+
 @media screen and (max-width: 800px) {
   .service{
     width: 50%;
@@ -1129,4 +1137,5 @@ body{
     width: 100%;
   }
 }
+
 
