@@ -668,7 +668,7 @@ a.btn:hover {
 }
 .portfolio-section .item-inner .content .meta {
   color: rgba(255, 255, 255, 0.8);
-  font-size: 11px;  /*change font size project here*/
+  font-size: 10.5px;  /*change font size project here*/
 }
 .portfolio-section .item-inner .content .action {
   position: absolute;
