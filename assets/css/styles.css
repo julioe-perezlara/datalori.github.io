@@ -1120,7 +1120,7 @@ body{
   font-weight: 500;
 }
 
-li {
+.list-portfolio {
   list-style-type: disc;
   list-style-position: inside;
   text-indent: -1em;
