@@ -529,11 +529,10 @@ a.btn:hover {
 }
 
 .references-section .testimonials-carousel {
-  max-width: 10000px;
 }
 .references-section .item {
-  padding-left: 60px;
-  margin-bottom: 45px;
+  padding-left: 0px;
+  margin-bottom: 25px;
 }
 .references-section .quote {
   border-left: none;
